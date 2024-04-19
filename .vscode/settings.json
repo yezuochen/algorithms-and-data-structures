@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./algorithms-sorting-and-searching/from-workspace"
+    ]
+}
